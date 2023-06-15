@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-This is chapter2
-I change the master
-=======
-Now I edit the file with alian branch
->>>>>>> alien
+complete empty
